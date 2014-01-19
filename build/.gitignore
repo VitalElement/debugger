@@ -16,3 +16,8 @@
 /TestResult.xml
 /runtests
 /ulimit-check
+*.user
+*.sdf
+*.log
+/Debug
+*.suo
